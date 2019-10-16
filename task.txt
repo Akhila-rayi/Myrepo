@@ -1,0 +1,21 @@
+Design Signup screens:
+--------------------------------
+
+Screen1: Agent details
+-------------------------------
+
+Name, Mobilenumber, Password,Address,Gender
+
+
+
+Screen2: Customer details
+-------------------------------
+
+Name, CompanyName,Gender, MobileNumber,Email, Address, Image, AgentName
+
+
+
+Note:
+---> should be different from basic registration form 
+---> apply custom styles like changing background style, changing hint textcolor on fousing in textinputlayout etc.
+
